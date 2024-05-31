@@ -292,7 +292,7 @@ section {
 
 @media (min-width: 300px) and (max-width: 699px){
     .titleSection {
-        font-size: 16px;
+        font-size: 18px;
     }
 }
 
@@ -327,7 +327,7 @@ section {
 
     .skill{
         text-align: center;
-        font-size: 14px;
+        font-size: 18px;
         line-height: 1.2;
         color: #284E7B;
         width: 100%;
@@ -345,9 +345,10 @@ section {
     }
 
     .skill{
-        font-size: 13px;
+        font-size: 18px;
         line-height: 1.2;
         width: 100%;
+        padding-bottom: 5px;
     }
 }
 
@@ -392,7 +393,7 @@ section {
     .webSkillsContent {
         display:flex;
         flex-direction: column;
-        height: 350px;
+        height: 450px;
         row-gap: 10px;
         align-items: flex-start; 
     }
@@ -411,12 +412,12 @@ section {
     }
 
     .webSkillTitle{
-        font-size: 14px;
+        font-size: 16px;
         padding-left: 10px;
     }
 
     .webSkill {        
-        font-size: 16px;
+        font-size: 20px;
     }
 
 }
@@ -447,12 +448,12 @@ section {
     }
 
     .webSkillTitle{
-        font-size: 12px;
+        font-size: 16px;
         padding-left: 10px;
     }
 
     .webSkill {        
-        font-size: 14px;
+        font-size: 18px;
     }
 
 }
@@ -482,7 +483,7 @@ section {
 @media (min-width: 700px) and (max-width: 899px){
     .experienceGroup{
         column-gap: 10px;
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.6;
     }
 }
@@ -490,7 +491,7 @@ section {
 @media (min-width: 300px) and (max-width: 699px){
     .experienceGroup{
         flex-direction: column;
-        font-size: 14px;
+        font-size: 18px;
         line-height: 1.4;
         padding: 0 0 10px 10px ;
     }
@@ -547,7 +548,7 @@ section {
     
     .info {
         width: 80%;
-        /* font-size: 16px; */
+        font-size: 18px;
         word-spacing: 0px;
         color: #284E7B;
     }
@@ -570,7 +571,7 @@ section {
     }
     
     .info {
-        font-size: 16px;
+        font-size: 18px;
         color: #284E7B;
     }
 
