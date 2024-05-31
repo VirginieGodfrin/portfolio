@@ -120,7 +120,7 @@ body{
     }
 
     .navLink{
-        font-size: 18px;
+        font-size: 24px;
     }
 
     .hamburger{
@@ -210,8 +210,8 @@ section {
     }
 
     .photo {
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
     }
 
     .aboutContent {
@@ -219,11 +219,11 @@ section {
     }
 
     .aboutTitle {
-        font-size: 18px;
+        font-size: 24px;
     }
     
     .description {
-        font-size: 14px;
+        font-size: 18px;
     }
 
 }
@@ -239,7 +239,7 @@ section {
 
     .about > .smartTitle {
         display: inline-block;
-        font-size: 16px;
+        font-size: 24px;
         text-transform: uppercase;
         color: #284E7B;
         padding-bottom: 10px;
@@ -263,12 +263,12 @@ section {
     }
 
     .photo {
-        width: 80px;
-        height: 80px;
+        width: 150px;
+        height: 150px;
     }
 
     .description {
-        /* font-size: 13px; */
+        font-size: 18px;
         text-align: justify;
         text-justify: inter-character;
         line-height: 120%;
