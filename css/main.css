@@ -47,7 +47,7 @@ body{
 
 .title{
     color: #284E7B;
-    font-size: 36;
+    font-size: 36px;
     margin: 0;
 }
 
@@ -62,7 +62,7 @@ body{
 
 .navLink {
     color:#8F908D;
-    font-size: 36;
+    font-size: 18px;
     transition: all 0.4s;
     flex-wrap: nowrap;
 }
@@ -119,9 +119,9 @@ body{
         row-gap: 15px;
     }
 
-    /* .navLink{
-        font-size: 14px;
-    } */
+    .navLink{
+        font-size: 24px;
+    }
 
     .hamburger{
         display: block;
@@ -218,13 +218,13 @@ section {
         margin-left:10px;
     }
 
-    /* .aboutTitle {
+    .aboutTitle {
         font-size: 18px;
     }
     
     .description {
         font-size: 14px;
-    } */
+    }
 
 }
 
@@ -239,7 +239,7 @@ section {
 
     .about > .smartTitle {
         display: inline-block;
-        /* font-size: 16px; */
+        font-size: 16px;
         text-transform: uppercase;
         color: #284E7B;
         padding-bottom: 10px;
@@ -281,10 +281,10 @@ section {
 .titleSection {
     margin-bottom: 2rem;
     color:#8F908D;
-    /* font-size: 24px; */
+    font-size: 24px;
 }
 
-/* @media (min-width: 700px) and (max-width: 899px){
+@media (min-width: 700px) and (max-width: 899px){
     .titleSection {
         font-size: 18px;
     }
@@ -294,7 +294,7 @@ section {
     .titleSection {
         font-size: 16px;
     }
-} */
+}
 
 
 /* general Skill */
@@ -308,7 +308,7 @@ section {
 
 .skill {
     color: #284E7B;
-    /* font-size: 18px; */
+    font-size: 18px;
     line-height: 1.2;
     margin-left: 10px;
     text-align: left;
@@ -327,8 +327,8 @@ section {
 
     .skill{
         text-align: center;
-        /* font-size: 14px; */
-        /* line-height: 1.2; */
+        font-size: 14px;
+        line-height: 1.2;
         color: #284E7B;
         width: 100%;
         margin: 0;
@@ -345,8 +345,8 @@ section {
     }
 
     .skill{
-        /* font-size: 13px; */
-        /* line-height: 1.2; */
+        font-size: 13px;
+        line-height: 1.2;
         width: 100%;
     }
 }
@@ -373,15 +373,15 @@ section {
 }
 
 .webSkillTitle{
-    /* font-size: 16px;
-    line-height: 1.2; */
+    font-size: 16px;
+    line-height: 1.2;
     color: #659ABD;
     text-transform: capitalize;
 }
 
 .webSkill {
-    /* font-size: 18px;
-    line-height: 1.2; */
+    font-size: 18px;
+    line-height: 1.2;
     color: #284E7B;
     text-transform: uppercase;
 }
@@ -410,14 +410,14 @@ section {
         padding-left: 20px;
     }
 
-    /* .webSkillTitle{
+    .webSkillTitle{
         font-size: 14px;
         padding-left: 10px;
     }
 
     .webSkill {        
         font-size: 16px;
-    } */
+    }
 
 }
 
@@ -482,16 +482,16 @@ section {
 @media (min-width: 700px) and (max-width: 899px){
     .experienceGroup{
         column-gap: 10px;
-        /* font-size: 16px;
-        line-height: 1.6; */
+        font-size: 16px;
+        line-height: 1.6;
     }
 }
 
 @media (min-width: 300px) and (max-width: 699px){
     .experienceGroup{
         flex-direction: column;
-        /* font-size: 14px;
-        line-height: 1.4; */
+        font-size: 14px;
+        line-height: 1.4;
         padding: 0 0 10px 10px ;
     }
     .experienceDate{
@@ -525,7 +525,7 @@ section {
 
 .info {
     width: 70%;
-    /* font-size: 18px; */
+    font-size: 18px;
     color: #284E7B;
 }
 
@@ -570,8 +570,8 @@ section {
     }
     
     .info {
-        /* font-size: 16px; */
-        /* color: #284E7B; */
+        font-size: 16px;
+        color: #284E7B;
     }
 
 }
