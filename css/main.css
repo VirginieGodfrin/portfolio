@@ -174,8 +174,8 @@ section {
     width: 30%;
 }
 .photo {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
 }
 
@@ -233,7 +233,7 @@ section {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 60%;
+        width: 90%;
         text-align: center;
     }
 
